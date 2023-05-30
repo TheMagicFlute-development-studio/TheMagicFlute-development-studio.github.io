@@ -1,2 +1,3 @@
-# TheMagicFlute-development-team.github.io
-hello from TheMagicFlute-development-team!
+# TheMagicFlute-development-studio.github.io
+hello from 
+TheMagicFlute-development-studio.github.io!
